@@ -1,0 +1,9 @@
+langchain
+openai
+langchain-openai
+chromadb
+gradio
+python-dotenv
+scikit-learn
+plotly
+langchain-community
