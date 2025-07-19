@@ -10,7 +10,7 @@ A simple AI assistant that answers natural language questions based on your docu
 - Provides a chat interface for question answering
 
 ## Quick Start
-1. Place your documents (e.g., `.md`, `.txt`) in a folder named `database_llmproject` inside the project directory.
+1. Place your documents (e.g., `.md`, `.txt`) in a folder named `documents` inside the project directory.
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
