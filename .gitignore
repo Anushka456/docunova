@@ -65,3 +65,5 @@ vector_db/
 
 # Ignore all contents of documents folder
 /documents/*
+
+.DS_Store
